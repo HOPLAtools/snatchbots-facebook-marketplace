@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Facebook Phones.Trade Bot
 // @namespace    http://tampermonkey.net/
-// @version      3.241029.5
+// @version      3.241101.5
 // @description  try to take over the world!
 // @author       You
 // @match        https://www.facebook.com/*
@@ -15,7 +15,7 @@
 // @run-at document-end
 // @sandbox DOM
 // @require https://code.getmdl.io/1.3.0/material.min.js
-// @require https://creativeit.github.io/getmdl-select/getmdl-select.min.js
+// @require https://cdnjs.cloudflare.com/ajax/libs/getmdl-select/2.0.1/getmdl-select.min.js
 // @require https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js
 // @require https://cdnjs.cloudflare.com/ajax/libs/dialog-polyfill/0.5.6/dialog-polyfill.min.js
 // @require https://cdn.trackjs.com/agent/v3/latest/t.js
